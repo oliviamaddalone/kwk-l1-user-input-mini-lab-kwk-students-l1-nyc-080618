@@ -2,7 +2,6 @@
 
 # First, puts out a string asking where the tourist would like to stay.
 puts "Let's plan your trip! Where would you like to stay?"
-stay = gets.chomp
 
 # Then, set a variable called stay to get the user's input. Make sure to capitilize that input.
 
