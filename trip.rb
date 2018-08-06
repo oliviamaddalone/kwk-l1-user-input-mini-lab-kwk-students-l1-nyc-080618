@@ -19,6 +19,7 @@ nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string
 puts "I like to stay #{stay}"
+stay = at the hotel
 puts "I like to eat #{eat}"
 eat = pizza
 puts "I like to spend my nights #{nights}"
