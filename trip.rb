@@ -2,6 +2,7 @@
 
 # First, puts out a string asking where the tourist would like to stay.
 puts "Let's plan your trip! Where would you like to stay?"
+stay = gets.chomp
 
 # Then, set a variable called stay to get the user's input. Make sure to capitilize that input.
 
@@ -17,6 +18,7 @@ nights = gets.chomp
 
 
 # Lastly, puts it all back by interpolating these values in a string
+puts "I like to stay #{stay}"
 puts "I like to eat #{eat}"
 eat = pizza
 puts "I like to spend my nights #{nights}"
