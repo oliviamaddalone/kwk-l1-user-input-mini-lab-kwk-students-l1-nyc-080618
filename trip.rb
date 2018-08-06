@@ -17,7 +17,7 @@ puts "Let's plan your trip! Where would you like to stay?"
 stay = gets.chomp.capitalize
 
 puts "Where do you like to eat?"
-eat = gets.chomp.capitalize
+eat = pizza
 
 puts "Where do you spend your nights?"
-nights = gets.chomp.capitalize
+nights = the beach
