@@ -21,4 +21,3 @@ nights = gets.chomp
 puts "I like to stay #{stay}"
 puts "I like to eat #{eat}"
 puts "I like to spend my nights #{nights}"
-nights = beach
